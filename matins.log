@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.6)  20 JUN 2026 14:19
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.6)  21 JUN 2026 10:52
  restricted system commands enabled.
 **matins.tex
 (./matins.tex
@@ -746,16 +746,6 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Looking in  on input line 36
 Module gregoriotex Info: Found gabc/hymn.gabc directly on input line 36
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 36
-Module gregoriotex Info: gabc/hymn.gabc has been modified and tmp-gre/gabc/hymn-
-6_1_0.gtex needs to be updated. Recompiling the gabc file on input line 36
-Module gregoriotex Info: Deleting old file tmp-gre/gabc/hymn-6_1_0.gtex on input
- line 36
-Module gregoriotex Info: Deleting old file tmp-gre/gabc/hymn-6_1_0.glog on input
- line 36
-Module gregoriotex Info: compiling the score gabc/hymn.gabc... on input line 36
-Module gregoriotex Info: will use gregorio on input line 36
-Module gregoriotex Info: running: gregorio -W -o tmp-gre/gabc/hymn-6_1_0.gtex -l
- tmp-gre/gabc/hymn-6_1_0.glog gabc/hymn.gabc on input line 36
  (./tmp-gre/gabc/hymn-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
@@ -888,12 +878,78 @@ Underfull \hbox (badness 5563) in paragraph at lines 176--177
 Module gregoriotex Info: Looking in  on input line 183
 Module gregoriotex Info: Found gabc/res1.gabc directly on input line 183
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 183
+Module gregoriotex Info: gabc/res1.gabc has been modified and tmp-gre/gabc/res1-
+6_1_0.gtex needs to be updated. Recompiling the gabc file on input line 183
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res1-6_1_0.gtex on input
+ line 183
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res1-6_1_0.glog on input
+ line 183
+Module gregoriotex Info: compiling the score gabc/res1.gabc... on input line 183
+
+Module gregoriotex Info: will use gregorio on input line 183
+Module gregoriotex Info: running: gregorio -W -o tmp-gre/gabc/res1-6_1_0.gtex -l
+ tmp-gre/gabc/res1-6_1_0.glog gabc/res1.gabc on input line 183
 (./tmp-gre/gabc/res1-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
-Overfull \hbox (8.45567pt too wide) detected at line 199
+Overfull \hbox (8.45567pt too wide) detected at line 289
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 289
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 300
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 300
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 311
+|
+ []
+
+
+Overfull \hbox (6.30266pt too wide) detected at line 311
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 321
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 321
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 946
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 946
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 957
+|
+ []
+
+
+Overfull \hbox (8.45567pt too wide) detected at line 957
 |
  []
 
@@ -907,11 +963,23 @@ Package lettrine.sty Info: Targeted height = 19.09691pt
 Module gregoriotex Info: Looking in  on input line 205
 Module gregoriotex Info: Found gabc/res2.gabc directly on input line 205
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 205
+Module gregoriotex Info: gabc/res2.gabc has been modified and tmp-gre/gabc/res2-
+6_1_0.gtex needs to be updated. Recompiling the gabc file on input line 205
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res2-6_1_0.gtex on input
+ line 205
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res2-6_1_0.glog on input
+ line 205
+Module gregoriotex Info: compiling the score gabc/res2.gabc... on input line 205
+
+Module gregoriotex Info: running: gregorio -W -o tmp-gre/gabc/res2-6_1_0.gtex -l
+ tmp-gre/gabc/res2-6_1_0.glog gabc/res2.gabc on input line 205
  (./tmp-gre/gabc/res2-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' in `hyphenate'. [10]
+Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
+Missing character: There is no - (U+002D) in font nullfont!
+[10]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package lettrine.sty Info: Targeted height = 19.09691pt
@@ -921,13 +989,21 @@ Package lettrine.sty Info: Targeted height = 19.09691pt
 Module gregoriotex Info: Looking in  on input line 227
 Module gregoriotex Info: Found gabc/res3.gabc directly on input line 227
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 227
+Module gregoriotex Info: gabc/res3.gabc has been modified and tmp-gre/gabc/res3-
+6_1_0.gtex needs to be updated. Recompiling the gabc file on input line 227
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res3-6_1_0.gtex on input
+ line 227
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res3-6_1_0.glog on input
+ line 227
+Module gregoriotex Info: compiling the score gabc/res3.gabc... on input line 227
+
+Module gregoriotex Info: running: gregorio -W -o tmp-gre/gabc/res3-6_1_0.gtex -l
+ tmp-gre/gabc/res3-6_1_0.glog gabc/res3.gabc on input line 227
  (./tmp-gre/gabc/res3-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
-Missing character: There is no - (U+002D) in font nullfont!
-[11]
+Inserting `gregoriotex.disable_hyphenation' in `hyphenate'. [11]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Looking in  on input line 233
@@ -955,15 +1031,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 242--243
 []\TU/PlantinMTPro(0)/m/n/10.95 Mis-erére mei, * et exáudi
  []
 
-[12]
+
 Underfull \hbox (badness 10000) in paragraph at lines 258--259
 []\TU/PlantinMTPro(0)/m/n/10.95 Quó-niam tu, Dómine, sin-
  []
 
+[12]
 Module gregoriotex Info: Looking in  on input line 265
 Module gregoriotex Info: Found gabc/ant4.gabc directly on input line 265
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 265
-(./tmp-gre/gabc/ant4-6_1_0.gtex
+ (./tmp-gre/gabc/ant4-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
@@ -1050,7 +1127,14 @@ Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (P);
 (lettrine.sty)             reported on input line 378.
- [15]
+
+Overfull \vbox (6.19992pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (12.19992pt too high) has occurred while \output is active []
+
+
+[15]
 Module gregoriotex Info: Looking in  on input line 385
 Module gregoriotex Info: Found gabc/res4.gabc directly on input line 385
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 385
@@ -1131,7 +1215,7 @@ Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [18] [19]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [18]
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (D);
@@ -1171,7 +1255,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 478--479
 []\TU/PlantinMTPro(0)/m/n/10.95 Quó-niam prævenísti eum in
  []
 
-[20]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 494--495
 []\TU/PlantinMTPro(0)/m/n/10.95 Quó-niam de-cli-navérunt in te
  []
@@ -1195,7 +1279,7 @@ Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [21]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [20]
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (B);
@@ -1227,7 +1311,7 @@ Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 563
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' in `hyphenate'. [22]
+Inserting `gregoriotex.disable_hyphenation' in `hyphenate'. [21]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package lettrine.sty Info: Targeted height = 19.09691pt
@@ -1268,7 +1352,7 @@ Underfull \hbox (badness 5119) in paragraph at lines 613--614
 \TU/PlantinMTPro(0)/m/n/10.95 Pul-chre autem tem-pus, quo fuit
  []
 
-[23]
+[22]
 Module gregoriotex Info: Looking in  on input line 620
 Module gregoriotex Info: Found gabc/res7.gabc directly on input line 620
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 620
@@ -1287,15 +1371,23 @@ Package lettrine.sty Info: Targeted height = 19.09691pt
 Module gregoriotex Info: Looking in  on input line 642
 Module gregoriotex Info: Found gabc/res8.gabc directly on input line 642
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 642
+Module gregoriotex Info: gabc/res8.gabc has been modified and tmp-gre/gabc/res8-
+6_1_0.gtex needs to be updated. Recompiling the gabc file on input line 642
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res8-6_1_0.gtex on input
+ line 642
+Module gregoriotex Info: Deleting old file tmp-gre/gabc/res8-6_1_0.glog on input
+ line 642
+Module gregoriotex Info: compiling the score gabc/res8.gabc... on input line 642
+
+Module gregoriotex Info: running: gregorio -W -o tmp-gre/gabc/res8-6_1_0.gtex -l
+ tmp-gre/gabc/res8-6_1_0.glog gabc/res8.gabc on input line 642
  (./tmp-gre/gabc/res8-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
-Missing character: There is no - (U+002D) in font nullfont!
-[24]
+Inserting `gregoriotex.disable_hyphenation' in `hyphenate'. [23]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [25]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (J);
@@ -1311,7 +1403,7 @@ Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Missing character: There is no - (U+002D) in font nullfont!
 Missing character: There is no - (U+002D) in font nullfont!
 Missing character: There is no - (U+002D) in font nullfont!
-[26] [27]
+[24] [25] [26]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Looking in  on input line 670
@@ -1327,14 +1419,14 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Looking in  on input line 672
 Module gregoriotex Info: Found gabc/lant1.gabc directly on input line 672
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 672
- (./tmp-gre/gabc/lant1-6_1_0.gtex
+
+(./tmp-gre/gabc/lant1-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
-[28]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [27]
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (D);
@@ -1352,18 +1444,23 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Looking in  on input line 700
 Module gregoriotex Info: Found gabc/lant2.gabc directly on input line 700
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 700
- (./tmp-gre/gabc/lant2-6_1_0.gtex
+
+(./tmp-gre/gabc/lant2-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-[29]
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (J);
 (lettrine.sty)             reported on input line 707.
+
+Overfull \vbox (13.19989pt too high) has occurred while \output is active []
+
+
+[28]
 Module gregoriotex Info: Looking in  on input line 723
 Module gregoriotex Info: Found gabc/lant2.gabc directly on input line 723
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 723
@@ -1388,12 +1485,12 @@ Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (D);
 (lettrine.sty)             reported on input line 732.
-
-[30]
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (D);
 (lettrine.sty)             reported on input line 756.
+
+[29]
 Module gregoriotex Info: Looking in  on input line 773
 Module gregoriotex Info: Found gabc/lant3.gabc directly on input line 773
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 773
@@ -1414,7 +1511,7 @@ Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Missing character: There is no - (U+002D) in font nullfont!
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [31]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (B);
@@ -1449,7 +1546,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 798--799
 []\TU/PlantinMTPro(0)/m/n/10.95 Benedícite, lux et téne-bræ,
  []
 
-
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 802--803
 []\TU/PlantinMTPro(0)/m/n/10.95 Benedícite, montes et colles,
  []
@@ -1497,9 +1594,9 @@ Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 825
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' in `hyphenate'. [32]
+Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [31]
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (L);
@@ -1529,7 +1626,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 877--878
 \TU/PlantinMTPro(0)/m/n/10.95 natiónibus: * in-crepatiónes in
  []
 
-[33]
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (L);
@@ -1539,10 +1635,11 @@ Underfull \hbox (badness 5504) in paragraph at lines 889--890
 \TU/PlantinMTPro(0)/m/n/10.95 * laudáte eum secún-dum mul-ti-
  []
 
+[32]
 Module gregoriotex Info: Looking in  on input line 902
 Module gregoriotex Info: Found gabc/lant5.gabc directly on input line 902
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 902
-(./tmp-gre/gabc/lant5-6_1_0.gtex
+ (./tmp-gre/gabc/lant5-6_1_0.gtex
 Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
@@ -1563,7 +1660,7 @@ Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Missing character: There is no - (U+002D) in font nullfont!
 Missing character: There is no - (U+002D) in font nullfont!
-[34]
+[33]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Looking in  on input line 924
@@ -1575,7 +1672,7 @@ Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
 Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [35]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (B);
@@ -1590,7 +1687,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 939--940
 []\TU/PlantinMTPro(0)/m/n/10.95 Ad facién-dam mis-er-icór-diam
  []
 
-
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 941--942
 []\TU/PlantinMTPro(0)/m/n/10.95 Jusjurán-dum, quod ju-rávit
  []
@@ -1619,7 +1716,7 @@ Package lettrine.sty Info: Targeted height = 19.09691pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.09694pt (D);
 (lettrine.sty)             reported on input line 972.
- [36]
+ [35]
 Module gregoriotex Info: Looking in  on input line 997
 Module gregoriotex Info: Found gabc/salve.gabc directly on input line 997
 Module gregoriotex Info: Output directory: tmp-gre/gabc/ on input line 997
@@ -1642,11 +1739,11 @@ Package lettrine.sty Info: Targeted height = 19.09691pt
 
 
 Package lettrine Warning: *** ATTENTION REQUIRED ***
-(lettrine)                The dropped cap O doesn't fit on page 37.
-(lettrine)                Missing vertical space: 60.94743pt. 
+(lettrine)                The dropped cap O doesn't fit on page 36.
+(lettrine)                Missing vertical space: 6.54741pt. 
 (lettrine)                Reported on input line 1007.
 
-[37] [38] (./matins.aux)
+[36] [37] (./matins.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
@@ -1663,7 +1760,7 @@ Here is how much of LuaTeX's memory you used:
  631 words of node memory still in use:
    6 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 4 glyph, 48 attribute, 63 glue_spec
 , 9 attribute_list, 1 write, 1 user_defined nodes
-   avail lists: 1:3,2:92475,3:7446,4:57,5:11590,6:968,7:12971,9:17005,10:55,11:3
+   avail lists: 1:3,2:92475,3:7446,4:57,5:11590,6:968,7:13120,9:17005,10:55,11:3
 40
  45451 multiletter control sequences out of 65536+600000
  64 fonts using 11686927 bytes
@@ -1678,10 +1775,10 @@ xlive/2025/texmf-dist/fonts/truetype/public/gregoriotex/greextra.ttf></usr/local
 hare/fonts/plantin-mt-pro/PlantinMTProRgIt.TTF></usr/share/fonts/plantin-mt-pro/
 PlantinMTProRg.TTF></home/noahlovins/.local/share/fonts/Canterbury.ttf></home/no
 ahlovins/.local/share/fonts/LAI_____.TTF>
-Output written on matins.pdf (38 pages, 207204 bytes).
+Output written on matins.pdf (37 pages, 205615 bytes).
 
-PDF statistics: 180 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+PDF statistics: 177 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
